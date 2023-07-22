@@ -19,9 +19,7 @@ import java.util.Set;
 
 public class Utility {
     private WebDriver driver;
-
     private WebDriverWait wait;
-
     private JavascriptExecutor jsExecutor;
     Actions actions;
 

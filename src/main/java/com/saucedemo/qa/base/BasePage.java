@@ -14,25 +14,17 @@ public class BasePage {
     public static Logger logger;
     protected WebDriver driver;
     protected Utility utility;
-    static Properties prop;
 
     public BasePage(WebDriver driver) {
-        try {
-            prop =  new Properties();
-            FileInputStream ip = new FileInputStream("src/main/java/com/saucedemo/qa/config/config.properties");
-            prop.load(ip);
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
         this.driver = driver;
-        logger = LoggerFactory.getLogger(getClass());
+        logger = LoggerFactory.getLogger(this.getClass());
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         driver.manage().window().maximize();
         utility = new Utility(driver);
     }
 
     public void visit(String url){
-        logger.info("Visit URL");
+        logger.info("Visit URL : " + url );
         driver.get(url);
     }
 }

@@ -1,4 +1,4 @@
-package utility;
+package com.saucedemo.qa.utils;
 
 import org.slf4j.LoggerFactory;
 

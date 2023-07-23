@@ -3,7 +3,7 @@ package com.saucedemo.qa.base;
 import org.openqa.selenium.WebDriver;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import utility.Utility;
+import com.saucedemo.qa.utils.Utility;
 
 import java.io.FileInputStream;
 import java.io.IOException;

@@ -58,18 +58,40 @@ public class LoginPage extends BasePage {
 
     public LoginPage(WebDriver driver) {
         super(driver);
+        logger.info("Initializing LoginPage with the provided WebDriver instance");
+        logger.info("Initializing page elements using PageFactory.initElements(driver, this)");
         PageFactory.initElements(driver, this);
+        logger.info("Navigating to the home page");
         visit("https://www.saucedemo.com/");
     }
 
-    public void verifyUserIsOnCheckoutCompletePage() {
-        Assert.assertTrue(loginLogotext.getText().equalsIgnoreCase("Swag Labs"), "Useer is not on Login Page");
+    public void verifyUserIsOnLoginPage() {
+        // Verify if the login logo text matches the expected text "Swag Labs"
+        if (loginLogotext.getText().equalsIgnoreCase("Swag Labs")) {
+            logger.info("User is on Login Page. Login logo text is: " + loginLogotext.getText());
+        } else {
+            logger.error("User is not on Login Page. Expected: 'Swag Labs', Actual: '" + loginLogotext.getText() + "'");
+            Assert.fail("User is not on Login Page. Expected: 'Swag Labs', Actual: '" + loginLogotext.getText() + "'");
+        }
+
     }
 
     public void loginWith(String username, String password) {
+        logger.info("Performing login with username: " + username + " and password: " + maskPassword(password));
+        // Type the username and password, and click the login button
+
         utility.type(usernameInput, username);
         utility.type(passwordInput, password);
         utility.click(loginButton);
+        
+    }
+
+    private String maskPassword(String password) {
+        StringBuilder maskedPassword = new StringBuilder();
+        for (int i = 0; i < password.length(); i++) {
+            maskedPassword.append("*");
+        }
+        return maskedPassword.toString();
     }
 
 }

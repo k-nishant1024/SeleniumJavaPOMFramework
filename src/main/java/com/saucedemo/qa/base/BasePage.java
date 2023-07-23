@@ -11,20 +11,28 @@ import java.time.Duration;
 import java.util.Properties;
 
 public class BasePage {
+    // Logger instance shared by all instances of BasePage
     public static Logger logger;
+
     protected WebDriver driver;
     protected Utility utility;
 
+    // Constructor for BasePage
     public BasePage(WebDriver driver) {
         this.driver = driver;
+        // Initialize the logger with the class name
         logger = LoggerFactory.getLogger(this.getClass());
+        // Set implicit wait and maximize the browser window
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
         driver.manage().window().maximize();
+        // Initialize the utility object to perform common actions
         utility = new Utility(driver);
     }
 
     public void visit(String url){
-        logger.info("Visit URL : " + url );
+        // Log the action of visiting the URL
+        logger.info("Visiting URL: " + url);
+        // Open the URL in the browser
         driver.get(url);
     }
 }

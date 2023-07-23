@@ -1,0 +1,1218 @@
+2023-07-23 12:20:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 12:20:23 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL
+2023-07-23 12:52:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 12:52:20 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 12:52:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test to verify login page loads successfully
+2023-07-23 12:53:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 12:53:44 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initialised Locaters
+2023-07-23 12:53:44 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 12:53:45 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test to verify login page loads successfully
+2023-07-23 13:02:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:02:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:02:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:02:21 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:02:21 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:02:21 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:02:21 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:02:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:02:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:02:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the login page loads successfully.
+2023-07-23 13:02:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: The login page loaded successfully with the expected title: 'Swag Labs'
+2023-07-23 13:02:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:06:28 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:06:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:06:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:06:31 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:06:31 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:06:31 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:06:31 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:06:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:06:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:06:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the user is able to login with valid credentials.
+2023-07-23 13:06:42 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:07:14 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:07:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:07:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:07:17 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:07:17 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:07:17 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:07:17 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:07:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:07:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:07:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the user is able to login with valid credentials.
+2023-07-23 13:07:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:07:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the user is able to login with valid credentials.
+2023-07-23 13:07:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:08:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:08:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:08:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:08:37 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:08:37 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:08:37 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:08:37 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:08:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:08:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:08:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the user is able to login with valid credentials.
+2023-07-23 13:08:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Performed login with valid credentials.
+2023-07-23 13:08:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: The user successfully logged in, and the products page is displayed.
+2023-07-23 13:08:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:10:10 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:10:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:10:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:10:13 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:10:13 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:10:13 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:10:13 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:10:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:10:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:10:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the user is not able to login with invalid credentials.
+2023-07-23 13:10:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Performed login with invalid credentials.
+2023-07-23 13:10:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: User was unable to log in with invalid credentials, and the error message is displayed.
+2023-07-23 13:10:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:11:46 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:11:49 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:11:49 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:11:49 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:11:49 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:11:49 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:11:49 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:11:50 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:11:50 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:11:50 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the appropriate error message is displayed for a blank username during login.
+2023-07-23 13:11:51 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Entered a blank username.
+2023-07-23 13:11:51 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Entered a valid password.
+2023-07-23 13:11:52 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Clicked the login button.
+2023-07-23 13:11:52 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: The appropriate error message is displayed for a blank username during login.
+2023-07-23 13:11:52 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:13:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:13:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:13:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:13:21 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:13:21 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:13:21 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:13:21 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:13:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:13:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:13:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the appropriate error message is displayed for a blank username during login.
+2023-07-23 13:13:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Entered a blank username.
+2023-07-23 13:13:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Entered a valid password.
+2023-07-23 13:13:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Clicked the login button.
+2023-07-23 13:13:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:14:42 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the appropriate error message is displayed for a blank username during login.
+2023-07-23 13:14:46 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Entered a blank username.
+2023-07-23 13:14:47 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Entered a valid password.
+2023-07-23 13:14:47 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Clicked the login button.
+2023-07-23 13:14:48 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: The appropriate error message is displayed for a blank username during login.
+2023-07-23 13:14:48 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:16:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:16:56 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:16:56 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:16:56 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:16:56 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:16:56 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:16:56 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:16:57 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:16:57 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:16:57 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the appropriate error message is displayed for a blank username during login.
+2023-07-23 13:16:57 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Entered a blank username.
+2023-07-23 13:16:58 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Entered a valid password.
+2023-07-23 13:16:59 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Clicked the login button.
+2023-07-23 13:16:59 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: The appropriate error message is displayed for a blank username during login.
+2023-07-23 13:16:59 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:17:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:17:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:17:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:17:25 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:17:25 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:17:25 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:17:25 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:17:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:17:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:17:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the appropriate error message is displayed for a blank password during login.
+2023-07-23 13:17:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Entered a valid username: standard_user
+2023-07-23 13:17:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Entered a blank password.
+2023-07-23 13:17:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Clicked the login button.
+2023-07-23 13:17:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: The appropriate error message is displayed for a blank password during login.
+2023-07-23 13:17:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:20:47 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:20:49 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:20:50 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:20:50 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:20:50 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:20:50 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:20:50 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:20:50 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:20:50 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:20:50 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify the error message when logging in with a locked-out user account.
+2023-07-23 13:20:51 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Entered a locked-out username: locked_out_user
+2023-07-23 13:20:52 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Entered a valid password.
+2023-07-23 13:20:52 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Clicked the login button.
+2023-07-23 13:20:53 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: The correct error message is displayed for a locked-out user account.
+2023-07-23 13:20:53 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:23:02 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:23:04 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:23:05 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:23:05 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:23:05 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:23:05 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:23:05 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:23:05 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:23:05 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:23:05 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify the responsiveness of the login form on different screen sizes.
+2023-07-23 13:23:05 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 100x100
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 100x200
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 100x300
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 100x400
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 100x500
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 100x600
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 100x700
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 100x800
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 100x900
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 100x1000
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 200x100
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 200x200
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 200x300
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 200x400
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 200x500
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 200x600
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 200x700
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 200x800
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 200x900
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 200x1000
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 300x100
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 300x200
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 300x300
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 300x400
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 300x500
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 300x600
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 300x700
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 300x800
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 300x900
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 300x1000
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 400x100
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 400x200
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 400x300
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 400x400
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 400x500
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 400x600
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 400x700
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 400x800
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 400x900
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 400x1000
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 500x100
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 500x200
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 500x300
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 500x400
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 500x500
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 500x600
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 500x700
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 500x800
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 500x900
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 500x1000
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 600x100
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 600x200
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 600x300
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 600x400
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 600x500
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 600x600
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 600x700
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 600x800
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 600x900
+2023-07-23 13:23:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 600x1000
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 700x100
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 700x200
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 700x300
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 700x400
+2023-07-23 13:23:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 700x500
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 700x600
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 700x700
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 700x800
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 700x900
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 700x1000
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 800x100
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 800x200
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 800x300
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 800x400
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 800x500
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 800x600
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 800x700
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 800x800
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 800x900
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 800x1000
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 900x100
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 900x200
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 900x300
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 900x400
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 900x500
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 900x600
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 900x700
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 900x800
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 900x900
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 900x1000
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1000x100
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1000x200
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1000x300
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1000x400
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1000x500
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1000x600
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1000x700
+2023-07-23 13:23:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1000x800
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1000x900
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1000x1000
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1100x100
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1100x200
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:24 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1100x300
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1100x400
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1100x500
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1100x600
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1100x700
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1100x800
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1100x900
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1100x1000
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1200x100
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1200x200
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1200x300
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1200x400
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1200x500
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1200x600
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1200x700
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1200x800
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:27 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1200x900
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1200x1000
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1300x100
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1300x200
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1300x300
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1300x400
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1300x500
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1300x600
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1300x700
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1300x800
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1300x900
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:29 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1300x1000
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1400x100
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1400x200
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1400x300
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1400x400
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1400x500
+2023-07-23 13:23:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1400x600
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1400x700
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1400x800
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1400x900
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1400x1000
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1500x100
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1500x200
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1500x300
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1500x400
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1500x500
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1500x600
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1500x700
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1500x800
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1500x900
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1500x1000
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1600x100
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1600x200
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1600x300
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1600x400
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1600x500
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1600x600
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:34 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1600x700
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1600x800
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1600x900
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1600x1000
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1700x100
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1700x200
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1700x300
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1700x400
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1700x500
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1700x600
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1700x700
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1700x800
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1700x900
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1700x1000
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1800x100
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1800x200
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1800x300
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1800x400
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1800x500
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1800x600
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1800x700
+2023-07-23 13:23:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1800x800
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1800x900
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1800x1000
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1900x100
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1900x200
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1900x300
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1900x400
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1900x500
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1900x600
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1900x700
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:41 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:41 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1900x800
+2023-07-23 13:23:41 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:41 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:41 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:41 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1900x900
+2023-07-23 13:23:41 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:41 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:41 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:41 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Setting window size: 1900x1000
+2023-07-23 13:23:41 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Username input is displayed.
+2023-07-23 13:23:41 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Password input is displayed.
+2023-07-23 13:23:41 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Login button is displayed.
+2023-07-23 13:23:41 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: The login form is responsive on different screen sizes.
+2023-07-23 13:23:41 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:26:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:26:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:26:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:26:11 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:26:11 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:26:11 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:26:11 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:26:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:26:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:26:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify the functionality of switching between username and password fields using the Tab key.
+2023-07-23 13:26:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Switched focus to the password field using the Tab key.
+2023-07-23 13:26:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: Successfully switched focus to the password field using the Tab key.
+2023-07-23 13:26:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Switched focus to the login button using the Tab key.
+2023-07-23 13:26:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: Successfully switched focus to the login button using the Tab key.
+2023-07-23 13:26:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:45:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:45:42 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:45:42 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:45:42 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:45:42 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:45:42 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:45:42 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:45:43 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:45:43 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:45:43 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Performing accessibility testing.
+2023-07-23 13:46:10 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Accessibility Violations Found:
+2023-07-23 13:46:10 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Rule: landmark-one-main
+2023-07-23 13:46:10 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Impact: moderate
+2023-07-23 13:46:10 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Description: Ensures the document has a main landmark
+2023-07-23 13:46:10 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Help URL: Document must have one main landmark
+2023-07-23 13:46:10 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Rule: page-has-heading-one
+2023-07-23 13:46:10 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Impact: moderate
+2023-07-23 13:46:10 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Description: Ensure that the page, or at least one of its frames contains a level-one heading
+2023-07-23 13:46:10 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Help URL: Page must contain a level-one heading
+2023-07-23 13:46:10 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Rule: region
+2023-07-23 13:46:10 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Impact: moderate
+2023-07-23 13:46:10 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Description: Ensures all page content is contained by landmarks
+2023-07-23 13:46:10 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Help URL: All page content must be contained by landmarks
+2023-07-23 13:46:10 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Test Failed: Accessibility violations found.
+2023-07-23 13:46:10 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:52:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:52:42 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:52:43 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:52:43 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:52:43 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:52:43 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:52:43 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:52:44 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:52:44 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:52:44 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Cross-browser testing with Firefox.
+2023-07-23 13:52:49 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:53:44 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:53:47 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:53:48 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:53:48 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:53:48 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:53:48 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:53:48 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:53:48 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:53:48 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:53:48 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Cross-browser testing with Firefox.
+2023-07-23 13:53:55 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:55:08 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:55:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:55:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:55:14 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:55:14 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:55:14 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:55:14 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:55:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:55:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:55:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify the functionality of switching between username and password fields using the Tab key.
+2023-07-23 13:55:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Switched focus to the password field using the Tab key.
+2023-07-23 13:55:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: Successfully switched focus to the password field using the Tab key.
+2023-07-23 13:55:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Switched focus to the login button using the Tab key.
+2023-07-23 13:55:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: Successfully switched focus to the login button using the Tab key.
+2023-07-23 13:55:18 [AsyncHttpClient-1-7] WARN  o.a.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+2023-07-23 13:55:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:57:54 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:57:58 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:58:01 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:58:01 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:58:01 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:58:01 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:58:01 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:58:02 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:58:02 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:58:02 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Cross-browser testing with Firefox.
+2023-07-23 13:58:05 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify the functionality of switching between username and password fields using the Tab key.
+2023-07-23 13:58:06 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Switched focus to the password field using the Tab key.
+2023-07-23 13:58:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: Successfully switched focus to the password field using the Tab key.
+2023-07-23 13:58:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Switched focus to the login button using the Tab key.
+2023-07-23 13:58:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: Successfully switched focus to the login button using the Tab key.
+2023-07-23 13:58:09 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:58:53 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:58:56 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:58:59 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:58:59 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:58:59 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:58:59 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:58:59 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:59:00 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:59:00 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:59:00 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Cross-browser testing with Firefox.
+2023-07-23 13:59:04 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the login page loads successfully.
+2023-07-23 13:59:04 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: The login page loaded successfully with the expected title: 'Swag Labs'
+2023-07-23 13:59:04 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 13:59:29 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 13:59:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 13:59:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 13:59:35 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:59:35 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:59:35 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 13:59:35 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:59:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 13:59:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 13:59:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Cross-browser testing with Firefox.
+2023-07-23 13:59:39 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the login page loads successfully.
+2023-07-23 13:59:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: The login page loaded successfully with the expected title: 'Swag Labs'
+2023-07-23 13:59:40 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 14:00:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 14:00:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 14:00:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 14:00:31 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 14:00:31 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 14:00:31 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 14:00:31 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 14:00:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 14:00:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 14:00:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Cross-browser testing with Firefox.
+2023-07-23 14:00:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the login page loads successfully.
+2023-07-23 14:00:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: The login page loaded successfully with the expected title: 'Swag Labs'
+2023-07-23 14:00:36 [AsyncHttpClient-1-10] WARN  o.a.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:1623)
+2023-07-23 14:00:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 14:01:05 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 14:01:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 14:01:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 14:01:12 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 14:01:12 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 14:01:12 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 14:01:12 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 14:01:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 14:01:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 14:01:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Cross-browser testing with Firefox.
+2023-07-23 14:01:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the login page loads successfully.
+2023-07-23 14:01:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: The login page loaded successfully with the expected title: 'Swag Labs'
+2023-07-23 14:01:16 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the user is able to login with valid credentials.
+2023-07-23 14:01:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Performed login with valid credentials.
+2023-07-23 14:01:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: The user successfully logged in, and the products page is displayed.
+2023-07-23 14:01:19 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 14:01:30 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 14:01:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 14:01:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 14:01:37 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 14:01:37 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 14:01:37 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 14:01:37 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 14:01:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 14:01:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 14:01:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Cross-browser testing with Firefox.
+2023-07-23 14:01:41 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the login page loads successfully.
+2023-07-23 14:01:42 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: The login page loaded successfully with the expected title: 'Swag Labs'
+2023-07-23 14:01:42 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the user is able to login with valid credentials.
+2023-07-23 14:01:44 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Performed login with valid credentials.
+2023-07-23 14:01:45 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test Passed: The user successfully logged in, and the products page is displayed.
+2023-07-23 14:01:46 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-23 14:11:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-23 14:12:01 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
+2023-07-23 14:12:04 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
+2023-07-23 14:12:04 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 14:12:04 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 14:12:04 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-23 14:12:04 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 14:12:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
+2023-07-23 14:12:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
+2023-07-23 14:12:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Performing accessibility testing.
+2023-07-23 14:12:19 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Accessibility Violations Found:
+2023-07-23 14:12:19 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Rule: landmark-one-main
+2023-07-23 14:12:19 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Impact: moderate
+2023-07-23 14:12:19 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Description: Ensures the document has a main landmark
+2023-07-23 14:12:19 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Help URL: Document must have one main landmark
+2023-07-23 14:12:19 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Rule: page-has-heading-one
+2023-07-23 14:12:19 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Impact: moderate
+2023-07-23 14:12:19 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Description: Ensure that the page, or at least one of its frames contains a level-one heading
+2023-07-23 14:12:19 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Help URL: Page must contain a level-one heading
+2023-07-23 14:12:19 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Rule: region
+2023-07-23 14:12:19 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Impact: moderate
+2023-07-23 14:12:19 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Description: Ensures all page content is contained by landmarks
+2023-07-23 14:12:19 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Help URL: All page content must be contained by landmarks
+2023-07-23 14:12:19 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Test Failed: Accessibility violations found.
+2023-07-23 14:12:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.

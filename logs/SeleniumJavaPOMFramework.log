@@ -1216,3 +1216,21 @@ java.net.SocketException: Connection reset
 2023-07-23 14:12:19 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Help URL: All page content must be contained by landmarks
 2023-07-23 14:12:19 [main] ERROR c.saucedemo.qa.tests.LoginPageTests - Test Failed: Accessibility violations found.
 2023-07-23 14:12:20 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - WebDriver has been quit successfully.
+2023-07-24 17:12:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-07-24 17:12:30 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-24 17:12:30 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-24 17:12:30 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-07-24 17:12:30 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visiting URL: https://www.saucedemo.com/
+2023-07-24 17:12:31 [main] INFO  c.saucedemo.qa.pageObjects.CartPage - CartPage constructor initialized. Page elements initialized using PageFactory.
+2023-07-24 17:12:31 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - InventoryItemPage constructor initialized. Page elements initialized using PageFactory.
+2023-07-24 17:12:31 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - Performing login with username: standard_user and password: ************
+2023-07-24 17:12:34 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - User is on Product Page. Header text is: Products
+2023-07-24 17:12:34 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - Added item 'Sauce Labs Backpack' to the cart.
+2023-07-24 17:12:35 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - Added item 'Sauce Labs Bolt T-Shirt' to the cart.
+2023-07-24 17:12:36 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - Added item 'Sauce Labs Fleece Jacket' to the cart.
+2023-07-24 17:12:37 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - User is on Cart Page. Header text matches: Your Cart
+2023-07-24 17:12:37 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - User is on Product Page. Header text is: Products
+2023-07-24 17:12:38 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - Clicked on the 'Remove' button for item: Sauce Labs Bolt T-Shirt
+2023-07-24 17:12:39 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - User is on Cart Page. Header text matches: Your Cart

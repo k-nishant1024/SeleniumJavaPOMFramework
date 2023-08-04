@@ -79,11 +79,9 @@ public class LoginPage extends BasePage {
     public void loginWith(String username, String password) {
         logger.info("Performing login with username: " + username + " and password: " + maskPassword(password));
         // Type the username and password, and click the login button
-
         utility.type(usernameInput, username);
         utility.type(passwordInput, password);
         utility.click(loginButton);
-        
     }
 
     private String maskPassword(String password) {

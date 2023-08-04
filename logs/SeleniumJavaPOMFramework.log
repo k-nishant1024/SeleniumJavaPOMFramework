@@ -1,27 +1,27 @@
 2023-07-23 12:20:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
 
-2023-07-23 12:20:23 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL
+2023-07-23 12:20:23 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL
 2023-07-23 12:52:17 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
 
-2023-07-23 12:52:20 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 12:52:20 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 12:52:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test to verify login page loads successfully
 2023-07-23 12:53:41 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
 
-2023-07-23 12:53:44 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initialised Locaters
-2023-07-23 12:53:44 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 12:53:44 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initialised Locaters
+2023-07-23 12:53:44 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 12:53:45 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Test to verify login page loads successfully
 2023-07-23 13:02:18 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
 
 2023-07-23 13:02:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:02:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:02:21 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:02:21 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:02:21 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:02:21 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:02:21 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:02:21 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:02:21 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:02:21 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:02:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:02:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:02:23 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the login page loads successfully.
@@ -32,10 +32,10 @@
 
 2023-07-23 13:06:30 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:06:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:06:31 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:06:31 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:06:31 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:06:31 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:06:31 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:06:31 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:06:31 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:06:31 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:06:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:06:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:06:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the user is able to login with valid credentials.
@@ -45,10 +45,10 @@
 
 2023-07-23 13:07:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:07:17 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:07:17 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:07:17 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:07:17 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:07:17 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:07:17 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:07:17 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:07:17 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:07:17 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:07:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:07:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:07:18 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the user is able to login with valid credentials.
@@ -58,10 +58,10 @@
 
 2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:07:33 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:07:33 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:07:33 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:07:33 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:07:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the user is able to login with valid credentials.
@@ -71,10 +71,10 @@
 
 2023-07-23 13:08:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:08:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:08:37 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:08:37 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:08:37 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:08:37 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:08:37 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:08:37 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:08:37 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:08:37 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:08:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:08:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:08:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the user is able to login with valid credentials.
@@ -86,10 +86,10 @@
 
 2023-07-23 13:10:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:10:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:10:13 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:10:13 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:10:13 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:10:13 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:10:13 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:10:13 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:10:13 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:10:13 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:10:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:10:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:10:13 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the user is not able to login with invalid credentials.
@@ -101,10 +101,10 @@
 
 2023-07-23 13:11:49 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:11:49 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:11:49 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:11:49 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:11:49 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:11:49 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:11:49 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:11:49 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:11:49 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:11:49 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:11:50 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:11:50 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:11:50 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the appropriate error message is displayed for a blank username during login.
@@ -118,10 +118,10 @@
 
 2023-07-23 13:13:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:13:21 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:13:21 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:13:21 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:13:21 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:13:21 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:13:21 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:13:21 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:13:21 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:13:21 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:13:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:13:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:13:22 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the appropriate error message is displayed for a blank username during login.
@@ -134,10 +134,10 @@
 
 2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:14:45 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:14:45 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:14:45 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:14:45 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:14:45 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the appropriate error message is displayed for a blank username during login.
@@ -151,10 +151,10 @@
 
 2023-07-23 13:16:56 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:16:56 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:16:56 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:16:56 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:16:56 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:16:56 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:16:56 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:16:56 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:16:56 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:16:56 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:16:57 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:16:57 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:16:57 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the appropriate error message is displayed for a blank username during login.
@@ -168,10 +168,10 @@
 
 2023-07-23 13:17:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:17:25 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:17:25 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:17:25 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:17:25 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:17:25 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:17:25 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:17:25 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:17:25 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:17:25 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:17:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:17:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:17:26 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify that the appropriate error message is displayed for a blank password during login.
@@ -185,10 +185,10 @@
 
 2023-07-23 13:20:49 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:20:50 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:20:50 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:20:50 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:20:50 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:20:50 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:20:50 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:20:50 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:20:50 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:20:50 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:20:50 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:20:50 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:20:50 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify the error message when logging in with a locked-out user account.
@@ -202,10 +202,10 @@
 
 2023-07-23 13:23:04 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:23:05 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:23:05 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:23:05 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:23:05 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:23:05 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:23:05 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:23:05 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:23:05 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:23:05 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:23:05 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:23:05 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:23:05 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify the responsiveness of the login form on different screen sizes.
@@ -976,10 +976,10 @@
 
 2023-07-23 13:26:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:26:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:26:11 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:26:11 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:26:11 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:26:11 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:26:11 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:26:11 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:26:11 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:26:11 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:26:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:26:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:26:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify the functionality of switching between username and password fields using the Tab key.
@@ -993,10 +993,10 @@
 
 2023-07-23 13:45:42 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:45:42 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:45:42 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:45:42 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:45:42 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:45:42 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:45:42 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:45:42 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:45:42 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:45:42 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:45:43 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:45:43 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:45:43 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Performing accessibility testing.
@@ -1020,10 +1020,10 @@
 
 2023-07-23 13:52:42 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:52:43 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:52:43 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:52:43 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:52:43 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:52:43 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:52:43 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:52:43 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:52:43 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:52:43 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:52:44 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:52:44 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:52:44 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Cross-browser testing with Firefox.
@@ -1033,10 +1033,10 @@
 
 2023-07-23 13:53:47 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:53:48 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:53:48 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:53:48 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:53:48 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:53:48 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:53:48 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:53:48 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:53:48 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:53:48 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:53:48 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:53:48 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:53:48 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Cross-browser testing with Firefox.
@@ -1046,10 +1046,10 @@
 
 2023-07-23 13:55:11 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:55:14 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:55:14 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:55:14 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:55:14 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:55:14 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:55:14 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:55:14 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:55:14 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:55:14 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:55:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:55:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:55:15 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Verify the functionality of switching between username and password fields using the Tab key.
@@ -1079,10 +1079,10 @@ java.net.SocketException: Connection reset
 
 2023-07-23 13:57:58 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:58:01 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:58:01 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:58:01 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:58:01 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:58:01 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:58:01 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:58:01 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:58:01 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:58:01 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:58:02 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:58:02 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:58:02 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Cross-browser testing with Firefox.
@@ -1097,10 +1097,10 @@ java.net.SocketException: Connection reset
 
 2023-07-23 13:58:56 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:58:59 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:58:59 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:58:59 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:58:59 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:58:59 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:58:59 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:58:59 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:58:59 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:58:59 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:59:00 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:59:00 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:59:00 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Cross-browser testing with Firefox.
@@ -1112,10 +1112,10 @@ java.net.SocketException: Connection reset
 
 2023-07-23 13:59:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 13:59:35 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 13:59:35 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 13:59:35 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 13:59:35 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 13:59:35 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 13:59:35 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 13:59:35 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 13:59:35 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 13:59:35 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 13:59:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 13:59:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 13:59:36 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Cross-browser testing with Firefox.
@@ -1127,10 +1127,10 @@ java.net.SocketException: Connection reset
 
 2023-07-23 14:00:28 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 14:00:31 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 14:00:31 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 14:00:31 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 14:00:31 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 14:00:31 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 14:00:31 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 14:00:31 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 14:00:31 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 14:00:31 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 14:00:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 14:00:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 14:00:32 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Cross-browser testing with Firefox.
@@ -1158,10 +1158,10 @@ java.net.SocketException: Connection reset
 
 2023-07-23 14:01:08 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 14:01:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 14:01:12 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 14:01:12 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 14:01:12 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 14:01:12 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 14:01:12 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 14:01:12 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 14:01:12 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 14:01:12 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 14:01:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 14:01:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 14:01:12 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Cross-browser testing with Firefox.
@@ -1176,10 +1176,10 @@ java.net.SocketException: Connection reset
 
 2023-07-23 14:01:33 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 14:01:37 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 14:01:37 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 14:01:37 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 14:01:37 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 14:01:37 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 14:01:37 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 14:01:37 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 14:01:37 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 14:01:37 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 14:01:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 14:01:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 14:01:38 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Cross-browser testing with Firefox.
@@ -1194,10 +1194,10 @@ java.net.SocketException: Connection reset
 
 2023-07-23 14:12:01 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ChromeDriver instance has been initialized.
 2023-07-23 14:12:04 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - ProductPage instance has been initialized with the WebDriver.
-2023-07-23 14:12:04 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-23 14:12:04 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-23 14:12:04 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-23 14:12:04 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visit URL : https://www.saucedemo.com/
+2023-07-23 14:12:04 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-23 14:12:04 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-23 14:12:04 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-23 14:12:04 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visit URL : https://www.saucedemo.com/
 2023-07-23 14:12:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - LoginPage instance has been initialized with the WebDriver.
 2023-07-23 14:12:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Utility instance has been initialized with the WebDriver.
 2023-07-23 14:12:07 [main] INFO  c.saucedemo.qa.tests.LoginPageTests - Starting Test: Performing accessibility testing.
@@ -1219,18 +1219,41 @@ java.net.SocketException: Connection reset
 2023-07-24 17:12:25 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
 
-2023-07-24 17:12:30 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
-2023-07-24 17:12:30 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
-2023-07-24 17:12:30 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
-2023-07-24 17:12:30 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visiting URL: https://www.saucedemo.com/
-2023-07-24 17:12:31 [main] INFO  c.saucedemo.qa.pageObjects.CartPage - CartPage constructor initialized. Page elements initialized using PageFactory.
-2023-07-24 17:12:31 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - InventoryItemPage constructor initialized. Page elements initialized using PageFactory.
-2023-07-24 17:12:31 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - Performing login with username: standard_user and password: ************
-2023-07-24 17:12:34 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - User is on Product Page. Header text is: Products
-2023-07-24 17:12:34 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - Added item 'Sauce Labs Backpack' to the cart.
-2023-07-24 17:12:35 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - Added item 'Sauce Labs Bolt T-Shirt' to the cart.
-2023-07-24 17:12:36 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - Added item 'Sauce Labs Fleece Jacket' to the cart.
-2023-07-24 17:12:37 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - User is on Cart Page. Header text matches: Your Cart
-2023-07-24 17:12:37 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - User is on Product Page. Header text is: Products
-2023-07-24 17:12:38 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - Clicked on the 'Remove' button for item: Sauce Labs Bolt T-Shirt
-2023-07-24 17:12:39 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - User is on Cart Page. Header text matches: Your Cart
+2023-07-24 17:12:30 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-07-24 17:12:30 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-07-24 17:12:30 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Navigating to the home page
+2023-07-24 17:12:30 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.LoginPage - Visiting URL: https://www.saucedemo.com/
+2023-07-24 17:12:31 [main] INFO  c.saucedemo.pageObjects.com.saucedemo.qa.CartPage - CartPage constructor initialized. Page elements initialized using PageFactory.
+2023-07-24 17:12:31 [main] INFO  c.s.pageObjects.com.saucedemo.qa.InventoryItemPage - InventoryItemPage constructor initialized. Page elements initialized using PageFactory.
+2023-07-24 17:12:31 [main] INFO  c.s.pageObjects.com.saucedemo.qa.InventoryItemPage - Performing login with username: standard_user and password: ************
+2023-07-24 17:12:34 [main] INFO  c.s.pageObjects.com.saucedemo.qa.InventoryItemPage - User is on Product Page. Header text is: Products
+2023-07-24 17:12:34 [main] INFO  c.s.pageObjects.com.saucedemo.qa.InventoryItemPage - Added item 'Sauce Labs Backpack' to the cart.
+2023-07-24 17:12:35 [main] INFO  c.s.pageObjects.com.saucedemo.qa.InventoryItemPage - Added item 'Sauce Labs Bolt T-Shirt' to the cart.
+2023-07-24 17:12:36 [main] INFO  c.s.pageObjects.com.saucedemo.qa.InventoryItemPage - Added item 'Sauce Labs Fleece Jacket' to the cart.
+2023-07-24 17:12:37 [main] INFO  c.s.pageObjects.com.saucedemo.qa.InventoryItemPage - User is on Cart Page. Header text matches: Your Cart
+2023-07-24 17:12:37 [main] INFO  c.s.pageObjects.com.saucedemo.qa.InventoryItemPage - User is on Product Page. Header text is: Products
+2023-07-24 17:12:38 [main] INFO  c.s.pageObjects.com.saucedemo.qa.InventoryItemPage - Clicked on the 'Remove' button for item: Sauce Labs Bolt T-Shirt
+2023-07-24 17:12:39 [main] INFO  c.s.pageObjects.com.saucedemo.qa.InventoryItemPage - User is on Cart Page. Header text matches: Your Cart
+2023-08-04 11:46:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\knish\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+2023-08-04 11:46:57 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing LoginPage with the provided WebDriver instance
+2023-08-04 11:46:57 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Initializing page elements using PageFactory.initElements(driver, this)
+2023-08-04 11:46:57 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Navigating to the home page
+2023-08-04 11:46:57 [main] INFO  c.saucedemo.qa.pageObjects.LoginPage - Visiting URL: https://www.saucedemo.com/
+2023-08-04 11:46:59 [main] INFO  c.saucedemo.qa.pageObjects.CartPage - CartPage constructor initialized. Page elements initialized using PageFactory.
+2023-08-04 11:46:59 [main] INFO  c.s.qa.pageObjects.InventoryItemPage - InventoryItemPage constructor initialized. Page elements initialized using PageFactory.
+2023-08-04 11:46:59 [main] INFO  c.s.q.p.CheckOutCompletePage - CheckOutCompletePage constructor initialized. Page elements initialized using PageFactory.
+2023-08-04 11:46:59 [main] INFO  c.s.q.p.CheckOutCompletePage - Performing login with username: standard_user and password: ************
+2023-08-04 11:47:01 [main] INFO  c.s.q.p.CheckOutCompletePage - User is on Product Page. Header text is: Products
+2023-08-04 11:47:02 [main] INFO  c.s.q.p.CheckOutCompletePage - Retrieved price of product 'Sauce Labs Backpack': $29.99
+2023-08-04 11:47:02 [main] INFO  c.s.q.p.CheckOutCompletePage - Added item 'Sauce Labs Backpack' to the cart.
+2023-08-04 11:47:03 [main] INFO  c.s.q.p.CheckOutCompletePage - Retrieved price of product 'Sauce Labs Bike Light': $9.99
+2023-08-04 11:47:04 [main] INFO  c.s.q.p.CheckOutCompletePage - Added item 'Sauce Labs Bike Light' to the cart.
+2023-08-04 11:47:04 [main] INFO  c.s.q.p.CheckOutCompletePage - Retrieved price of product 'Sauce Labs Bolt T-Shirt': $15.99
+2023-08-04 11:47:05 [main] INFO  c.s.q.p.CheckOutCompletePage - Added item 'Sauce Labs Bolt T-Shirt' to the cart.
+2023-08-04 11:47:06 [main] INFO  c.s.q.p.CheckOutCompletePage - Retrieved price of product 'Sauce Labs Fleece Jacket': $49.99
+2023-08-04 11:47:06 [main] INFO  c.s.q.p.CheckOutCompletePage - Added item 'Sauce Labs Fleece Jacket' to the cart.
+2023-08-04 11:47:07 [main] INFO  c.s.q.p.CheckOutCompletePage - Retrieved price of product 'Sauce Labs Onesie': $7.99
+2023-08-04 11:47:08 [main] INFO  c.s.q.p.CheckOutCompletePage - Added item 'Sauce Labs Onesie' to the cart.
+2023-08-04 11:47:08 [main] INFO  c.s.q.p.CheckOutCompletePage - User is on Cart Page. Header text matches: Your Cart

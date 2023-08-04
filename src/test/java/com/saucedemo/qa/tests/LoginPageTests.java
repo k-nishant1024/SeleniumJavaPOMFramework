@@ -1,7 +1,8 @@
 package com.saucedemo.qa.tests;
 
 import com.deque.axe.AXE;
-import com.saucedemo.qa.pageObjects.*;
+import com.saucedemo.qa.pageObjects.LoginPage;
+import com.saucedemo.qa.pageObjects.ProductPage;
 import com.saucedemo.qa.utils.ConfigManager;
 import com.saucedemo.qa.utils.Utility;
 import org.json.JSONArray;

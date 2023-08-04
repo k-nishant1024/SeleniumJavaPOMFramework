@@ -1,14 +1,11 @@
 package com.saucedemo.qa.base;
 
+import com.saucedemo.qa.utils.Utility;
 import org.openqa.selenium.WebDriver;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import com.saucedemo.qa.utils.Utility;
 
-import java.io.FileInputStream;
-import java.io.IOException;
 import java.time.Duration;
-import java.util.Properties;
 
 public class BasePage {
     // Logger instance shared by all instances of BasePage
